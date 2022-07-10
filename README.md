@@ -1,1 +1,8 @@
-# mindbox-trial
+# Тестовое задание для Mindbox
+
+## Задание #1
+В ShapesLibrary.Models находятся классы Circle и Triange, подписанные на интерфейс IMeasurable. IMeasurable декларирует метод CalculateArea(). Для каждого конкретного инстанса Circle или Triange CalculateArea() вычисляет площадь фигуры. 
+
+Метод IsARightAngledTriangle() класса Triange позволяет проверить, является ли треугольник прямоугольным.
+
+Решение сопровождается unit-тестами, расположенными в ShapesLibrary.Tests.
